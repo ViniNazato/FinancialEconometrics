@@ -2,10 +2,10 @@
 
 Este repositório contém materiais relacionados a Econometria de Finanças e Gerenciamento do Risco. Ele deverá abordar diversos temas importantes para entender e modelar o séries financeiras em diferentes contextos.
 
-## Temnas Disponíveis
+## Temas Disponíveis
 
 1. **Modelagem do Risco**
-   - Esta pasta contém materiais sobre o gerenciamento do risco financeiro, incluindo aulas sobre Propriedades dos Retornos, Value at Risk e Volatilidade Condicional.
+   - Esta pasta contém materiais sobre o gerenciamento do risco financeiro, incluindo notebooks sobre Propriedades dos Retornos, Value at Risk e Volatilidade Condicional.
 
 
 ## Arquivos Disponíveis
