@@ -1,28 +1,31 @@
 # Econometria de Finanças e Gerenciamento do Risco
 
-Este repositório contém materiais relacionados a Econometria de Finanças e Gerenciamento do Risco. Ele deverá abordar diversos temas importantes para entender e modelar o séries financeiras em diferentes contextos.
+Este repositório contém materiais relacionados a Econometria de Finanças e Gerenciamento do Risco. Ele deverá abordar diversos temas importantes para entender e modelar séries financeiras em diferentes contextos. Mais do que tudo, estes materiais são feitos para fixação do conteúdo. Acompanhar com um livro base (indicados nas referências) é aconselhado.
 
 ## Temas Disponíveis
 
 1. **Modelagem do Risco**
-   - Esta pasta contém materiais sobre o gerenciamento do risco financeiro, incluindo notebooks sobre Propriedades dos Retornos, Value at Risk e Volatilidade Condicional.
-
+   - Esta pasta contém materiais sobre o gerenciamento do risco financeiro, incluindo notebooks sobre Propriedades dos Retornos, Volatilidade Condicional e Value at Risk.
 
 ## Arquivos Disponíveis
 
 ### Modelagem do Risco
 
 1. **Propriedades dos Retornos**
-   - [Link para o arquivo da aula 1](modelagem-do-risco/propriedades_retornos.pdf)
-   - Breve descrição ou sumário da aula 1...
+   - [Link para o arquivo da aula 1](imgs/return_properties.png)
+   - As propriedades dos retornos referem-se às características dos dados de retorno de um ativo ou portfólio que podem ser analisadas estatisticamente (Fatos Estilizados). Isso inclui a distribuição dos retornos (normalidade, assimetria, curtose), a autocorrelação (se os retornos estão relacionados ao longo do tempo), a volatilidade (variação dos retornos), entre outros. Essas propriedades são essenciais para compreender os modelos mais complexos que serão utilizados nos próximos cadernos.
 
-2. **Value at Risk (VaR)**
-   - [Link para o arquivo da aula 2](modelagem-do-risco/value_at_risk.pdf)
-   - Breve descrição ou sumário da aula 2...
+2. **Volatilidade Condicional**
+   - [Link para o arquivo da aula 2](modelagem-do-risco/volatilidade_condicional.pdf)
+   - Na parte 2, sobre Volatilidade Condicional, estudamos como a volatilidade dos retornos financeiros de fato varia ao longo do tempo, sendo influenciada por eventos passados. Exploramos modelos como ARCH (Engle, 1982) e GARCH (Bollerslev, 1986), que capturam essa dinâmica, e discutimos sua aplicação na previsão e gestão de riscos. 
 
-3. **Volatilidade Condicional**
-   - [Link para o arquivo da aula 3](modelagem-do-risco/volatilidade_condicional.pdf)
-   - Breve descrição ou sumário da aula 3...
+3. **Value at Risk (VaR)**
+   - [Link para o arquivo da aula 3](modelagem-do-risco/value_at_risk.pdf)
+   - Na parte 3, "Value at Risk (VaR)", exploramos o conceito de VaR como uma medida de risco amplamente utilizada no campo financeiro. Discutimos como o VaR fornece uma estimativa da perda máxima esperada em um investimento ou carteira em um determinado nível de confiança e horizonte de tempo. Exploramos as principais abordagens para calcular o VaR, incluindo métodos paramétricos, não paramétricos e de simulação. Além disso, discutimos as limitações e críticas ao uso do VaR, destacando a importância de complementar essa medida com outras métricas de risco. 
+
+4. **Teoria dos Valores Extremos**
+   - [Link para o arquivo da aula 4](modelagem-do-risco/extreme_values.pdf)
+   - Na parte 4
 
 ## Próximas Atualizações
 
